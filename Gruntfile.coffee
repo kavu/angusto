@@ -132,8 +132,8 @@ module.exports = (grunt) ->
       dist:
         nonull: true
         options:
-          banner: ";(function(window,document,undefined){'use strict';"
-          footer: "}(window,document));"
+          banner: ";(function(window,document,angular){'use strict';"
+          footer: "}(window,document,window.angular));"
           process: (src, filepath) ->
             src.replace(/('use strict'|"use strict");/g, "")
         files:
