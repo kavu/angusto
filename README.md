@@ -18,7 +18,7 @@ There are many AngularJS Project Templates, but this one is mine.
 First of all just clone this repo and then:
 
 ```
-npm install && bower install
+gem install compass && npm install && bower install
 ```
 
 Now you can…
@@ -49,4 +49,4 @@ grunt build
 
 ## One more thing
 
-I know that template is clunky and weird (Bootstrap assets requirement and copying them), and I hope I'll find an elegant solution someday. But if you want to suggest some — feel free to open a Pull&nbsp;Request.
+I know that template is clunky and weird (Bootstrap assets requirement and copying them, Ruby Compass dependency), and I hope I'll find an elegant solution someday. But if you want to suggest some — feel free to open a Pull&nbsp;Request.
