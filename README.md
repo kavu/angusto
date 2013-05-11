@@ -6,10 +6,10 @@ There are many AngularJS Project Templates, but this one is mine.
 
 * [Grunt](http://gruntjs.com) — for rapid developing and building project
 * [Bower](http://bower.io) — for managing project assets dependencies
-* [Yeoman](http://yeoman.io‎) with [generator-angular](yeoman/generator-angular) — for generating AngularJS controllers, services, directives, etc.
+* [Yeoman](http://yeoman.io‎) with [generator-angular](https://github.com/yeoman/generator-angular) — for generating AngularJS controllers, services, directives, etc.
 * [Karma](http://karma-runner.github.io) — test-runner for CI executing of specs
 * [AngularJS](http://angularjs.org) — JS framework itself
-* [Twitter Bootstrap](http://twitter.github.io/bootstrap) — famous CSS framework, [Compass SCSS version](vwall/compass-twitter-bootstrap) 
+* [Twitter Bootstrap](http://twitter.github.io/bootstrap) — famous CSS framework, [Compass SCSS version](https://github.com/vwall/compass-twitter-bootstrap) 
 
 ## Installation and Usage
 
