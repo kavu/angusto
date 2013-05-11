@@ -2,6 +2,8 @@
 
 There are many AngularJS Project Templates, but this one is mine.
 
+[![Build Status](https://travis-ci.org/kavu/angusto.png)](https://travis-ci.org/kavu/angusto)
+
 ## What's inside?
 
 * [Grunt](http://gruntjs.com) — for rapid developing and building project
